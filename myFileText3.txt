@@ -1,0 +1,2 @@
+Text.3 is being fixed
+practiced Git option from Atom
